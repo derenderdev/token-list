@@ -49,11 +49,11 @@ This could include:
 ## Validated Tokens List
 
 ### Example Fields:  
-- `Name`: Genopets Ki
-- `Symbol`: KI 
-- `Mint Address`: kiGenopAScF8VF31Zbtx2Hg8qA5ArGqvnVtXb83sotc
-- `Decimals`: 9 
-- `LogoURI`: https://arweave.net/WfPR8w5dEoerG_bI3S2o2_nuSfWY3p8M4YbQ6ijd1cQ?ext=png
+- `Name`: DeRender Token
+- `Symbol`: DeRD
+- `Mint Address`: HyhvsbDoxNPJYcMUHUopDWeU2ip6FxRatvrYMH6W7UjM
+- `Decimals`: 6
+- `LogoURI`: https://arweave.net/a83WstDKXFVseQbM0uNp-yPIo9XpFVPnJ_bdyHcQXTM
 - `Community Validated`: true
 
 <hr>
